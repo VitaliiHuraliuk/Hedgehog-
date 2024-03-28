@@ -1,0 +1,14 @@
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.AssemblyInfo.cs
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\bin\Debug\net8.0\HedgehogTest.exe
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\bin\Debug\net8.0\HedgehogTest.deps.json
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\bin\Debug\net8.0\HedgehogTest.runtimeconfig.json
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\bin\Debug\net8.0\HedgehogTest.dll
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\bin\Debug\net8.0\HedgehogTest.pdb
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.dll
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\refint\HedgehogTest.dll
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.pdb
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\HedgehogTest.genruntimeconfig.cache
+C:\Users\MI\Desktop\hedgehog\Hedgehog-\HedgehogTest\HedgehogTest\obj\Debug\net8.0\ref\HedgehogTest.dll
